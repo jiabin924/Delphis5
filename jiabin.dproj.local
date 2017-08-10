@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010-05-28 00:39:25.609.pas,D:\Documents and Settings\Administrator.GIGI.000\My Documents\Borland Studio Projects\Unit1.pas=C:\kong\代理s5服务器\Unit1.pas</Transaction>
+    <Transaction>2010-05-28 00:39:25.609.dfm,D:\Documents and Settings\Administrator.GIGI.000\My Documents\Borland Studio Projects\Unit1.dfm=C:\kong\代理s5服务器\Unit1.dfm</Transaction>
+    <Transaction>2010-05-28 00:39:27.296.bdsproj,D:\Documents and Settings\Administrator.GIGI.000\My Documents\Borland Studio Projects\Project1.bdsproj=C:\kong\代理s5服务器\Project1.bdsproj</Transaction>
+    <Transaction>2010-05-28 15:23:09.187.pas,C:\kong\代理s5服务器\MYNMUDP.pas=C:\kong\代理s5服务器\jiaMYNMUDP.pas</Transaction>
+    <Transaction>2010-05-28 19:35:56.953.bdsproj,C:\kong\代理s5服务器\Project1.bdsproj=C:\kong\代理s5服务器\jiabin1.bdsproj</Transaction>
+    <Transaction>2010-05-28 22:41:20.953.bdsproj,C:\kong\代理s5服务器\jiabin1.bdsproj=C:\kong\代理s5服务器\jiabin.bdsproj</Transaction>
+    <Transaction>2010-05-28 23:53:50.640.pas,C:\kong\代理s5服务器\Socks5Proxy.pas=C:\kong\代理s5服务器\jiabinSocks5Proxy.pas</Transaction>
+  </Transactions>
+</BorlandProject>
